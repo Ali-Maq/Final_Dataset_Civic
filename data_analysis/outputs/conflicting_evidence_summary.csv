@@ -1,0 +1,239 @@
+molecular_profile_name,disease_name,evidence_type,supports,does_not_support,evidence_items
+ABCB1 Overexpression,Lung Non-small Cell Carcinoma,PREDICTIVE,2,1,3
+ABL1 C475V,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+ABL1 L298V,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+ABL1 P-Loop Mutation,Chronic Myeloid Leukemia,PREDICTIVE,1,2,3
+AKT1 E17K,Breast Cancer,PREDICTIVE,1,1,2
+ALK F1174L,Neuroblastoma,PREDICTIVE,8,1,9
+AR AR-V7,Prostate Cancer,PREDICTIVE,9,2,11
+ATM Mutation,Castration-resistant Prostate Carcinoma,PREDICTIVE,1,1,2
+ATM Mutation,Prostate Cancer,PREDICTIVE,2,1,3
+ATM Underexpression,Stomach Cancer,PREDICTIVE,1,1,2
+BCL2 G101V,Chronic Lymphocytic Leukemia,PREDICTIVE,5,1,6
+BCR::ABL1 Fusion,Chronic Myeloid Leukemia,DIAGNOSTIC,2,1,3
+BCR::ABL1 Fusion AND ABL1 A397P,Chronic Myeloid Leukemia,PREDICTIVE,2,1,3
+BCR::ABL1 Fusion AND ABL1 D276G,Chronic Myeloid Leukemia,PREDICTIVE,6,2,8
+BCR::ABL1 Fusion AND ABL1 E255K,Chronic Myeloid Leukemia,PREDICTIVE,19,3,22
+BCR::ABL1 Fusion AND ABL1 E255V,Chronic Myeloid Leukemia,PREDICTIVE,13,4,17
+BCR::ABL1 Fusion AND ABL1 E279K,Chronic Myeloid Leukemia,PREDICTIVE,3,1,4
+BCR::ABL1 Fusion AND ABL1 E355G,Chronic Myeloid Leukemia,PREDICTIVE,5,5,10
+BCR::ABL1 Fusion AND ABL1 E450V,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 E453A,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 E453K,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 E459K,Chronic Myeloid Leukemia,PREDICTIVE,2,2,4
+BCR::ABL1 Fusion AND ABL1 E98G,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 F311I,Chronic Myeloid Leukemia,PREDICTIVE,2,1,3
+BCR::ABL1 Fusion AND ABL1 F311L,Chronic Myeloid Leukemia,PREDICTIVE,3,1,4
+BCR::ABL1 Fusion AND ABL1 F317L,Cancer,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 F317L,Chronic Myeloid Leukemia,PREDICTIVE,20,2,22
+BCR::ABL1 Fusion AND ABL1 F317V,Cancer,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 F359C,Chronic Myeloid Leukemia,PREDICTIVE,6,4,10
+BCR::ABL1 Fusion AND ABL1 F359I,Chronic Myeloid Leukemia,PREDICTIVE,1,5,6
+BCR::ABL1 Fusion AND ABL1 F359V,Chronic Myeloid Leukemia,PREDICTIVE,13,5,18
+BCR::ABL1 Fusion AND ABL1 F486S,Chronic Myeloid Leukemia,PREDICTIVE,5,2,7
+BCR::ABL1 Fusion AND ABL1 G250E,Cancer,PREDICTIVE,2,1,3
+BCR::ABL1 Fusion AND ABL1 G250E,Chronic Myeloid Leukemia,PREDICTIVE,15,3,18
+BCR::ABL1 Fusion AND ABL1 H396P,Cancer,PREDICTIVE,2,1,3
+BCR::ABL1 Fusion AND ABL1 H396P,Chronic Myeloid Leukemia,PREDICTIVE,5,2,7
+BCR::ABL1 Fusion AND ABL1 H396R,Chronic Myeloid Leukemia,PREDICTIVE,12,3,15
+BCR::ABL1 Fusion AND ABL1 L248V,Chronic Myeloid Leukemia,PREDICTIVE,7,3,10
+BCR::ABL1 Fusion AND ABL1 L364I,Chronic Myeloid Leukemia,PREDICTIVE,2,1,3
+BCR::ABL1 Fusion AND ABL1 L384M,Chronic Myeloid Leukemia,PREDICTIVE,5,1,6
+BCR::ABL1 Fusion AND ABL1 L387M,Chronic Myeloid Leukemia,PREDICTIVE,1,2,3
+BCR::ABL1 Fusion AND ABL1 M244V,Cancer,PREDICTIVE,2,1,3
+BCR::ABL1 Fusion AND ABL1 M244V,Chronic Myeloid Leukemia,PREDICTIVE,7,7,14
+BCR::ABL1 Fusion AND ABL1 M351T,Cancer,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 M351T,Chronic Myeloid Leukemia,PREDICTIVE,14,4,18
+BCR::ABL1 Fusion AND ABL1 N331S,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 N336S,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 Q252H,Cancer,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 Q252H,Chronic Myeloid Leukemia,PREDICTIVE,12,3,15
+BCR::ABL1 Fusion AND ABL1 Q300R,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 T315A,Cancer,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 T315I,Acute Lymphoblastic Leukemia,PREDICTIVE,7,1,8
+BCR::ABL1 Fusion AND ABL1 T315I,Chronic Myeloid Leukemia,PREDICTIVE,31,2,33
+BCR::ABL1 Fusion AND ABL1 V379I,Chronic Myeloid Leukemia,PREDICTIVE,4,1,5
+BCR::ABL1 Fusion AND ABL1 Y253F,Cancer,PREDICTIVE,1,1,2
+BCR::ABL1 Fusion AND ABL1 Y253F,Chronic Myeloid Leukemia,PREDICTIVE,9,3,12
+BCR::ABL1 Fusion AND ABL1 Y253H,Chronic Myeloid Leukemia,PREDICTIVE,9,7,16
+BRAF D594G,Cancer,PREDICTIVE,1,1,2
+BRAF D594G,Colorectal Cancer,PREDICTIVE,1,2,3
+BRAF D594N AND BRAF G466A,Collecting Duct Carcinoma,PREDICTIVE,1,1,2
+BRAF Exon 15 Mutation,Gastrointestinal Stromal Tumor,PREDICTIVE,1,1,2
+BRAF G466V,Colorectal Cancer,PREDICTIVE,2,1,3
+BRAF G469,Melanoma,PREDICTIVE,1,1,2
+BRAF G596R,Colorectal Cancer,PREDICTIVE,1,1,2
+BRAF L597,Melanoma,PREDICTIVE,2,1,3
+BRAF Mutation,Colorectal Cancer,PREDICTIVE,6,1,7
+BRAF N486_P490del,Solid Tumor,PREDICTIVE,1,1,2
+BRAF V600,Colorectal Cancer,PREDICTIVE,6,2,8
+BRAF V600E,Colorectal Cancer,PREDICTIVE,38,4,42
+BRAF V600E,Colorectal Cancer,PROGNOSTIC,6,1,7
+BRAF V600E,Melanoma,PREDICTIVE,39,3,42
+BRAF V600E,Melanoma,PROGNOSTIC,1,1,2
+BRAF V600E,Papillary Thyroid Carcinoma,PROGNOSTIC,7,1,8
+BRAF V600R,Melanoma,PREDICTIVE,4,1,5
+BRAF V600R,Skin Melanoma,PREDICTIVE,1,1,2
+BRAF V600_K601>E,Melanoma,PREDICTIVE,1,1,2
+BRAF V601E,Melanoma,PREDICTIVE,1,1,2
+BRCA1 Mutation,Pancreatic Cancer,PREDICTIVE,3,3,6
+BRCA2 Mutation,Pancreatic Cancer,PREDICTIVE,7,2,9
+BRCA2 Mutation,Triple-receptor Negative Breast Cancer,PREDICTIVE,1,1,2
+CALR EXON 9 FRAMESHIFT,Essential Thrombocythemia,PROGNOSTIC,1,1,2
+CCND1 Amplification,Breast Cancer,PREDICTIVE,1,1,2
+CCND1 Expression,Lung Non-small Cell Carcinoma,PROGNOSTIC,1,1,2
+CCND1 Overexpression,Mantle Cell Lymphoma,PREDICTIVE,1,1,2
+CCNE2 Overexpression,Breast Cancer,PREDICTIVE,1,1,2
+CD274 Expression,Lung Non-small Cell Carcinoma,PROGNOSTIC,1,1,2
+CD274 Expression,Melanoma,PREDICTIVE,2,1,3
+CDKN2A p16 Expression,Head And Neck Squamous Cell Carcinoma,PREDICTIVE,3,2,5
+CHEK2 mutation,Castration-resistant Prostate Carcinoma,PREDICTIVE,1,1,2
+CTNNB1 S45F,Desmoid Tumor,PREDICTIVE,1,1,2
+DLL3 Expression,Lung Small Cell Carcinoma,PREDICTIVE,1,1,2
+DNMT3A R882,Acute Myeloid Leukemia,PREDICTIVE,1,1,2
+DNMT3A R882,Acute Myeloid Leukemia,PROGNOSTIC,13,6,19
+EGFR A767_V769dupASV,Lung Non-small Cell Carcinoma,PREDICTIVE,3,1,4
+EGFR Amplification,Lung Non-small Cell Carcinoma,PREDICTIVE,5,1,6
+EGFR D761N,Cancer,PREDICTIVE,1,1,2
+EGFR D770_N771insNPG,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+EGFR D770_N771insSVD,Lung Non-small Cell Carcinoma,PREDICTIVE,2,1,3
+EGFR G719A,Lung Non-small Cell Carcinoma,PREDICTIVE,4,1,5
+EGFR G810S,Cancer,PREDICTIVE,1,1,2
+EGFR H773_V774insH,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+EGFR L718Q AND EGFR L718V,Lung Adenocarcinoma,PREDICTIVE,1,1,2
+EGFR L858R,Lung Adenocarcinoma,PREDICTIVE,10,1,11
+EGFR L858R,Lung Non-small Cell Carcinoma,PREDICTIVE,24,1,25
+EGFR Mutation,Lung Adenocarcinoma,PREDICTIVE,1,1,2
+EGFR Rare Exon 18-21 Mutation,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+EGFR S492R,Colorectal Cancer,PREDICTIVE,6,1,7
+EGFR S768I,Lung Non-small Cell Carcinoma,PREDICTIVE,5,1,6
+EGFR S784F,Cancer,PREDICTIVE,1,1,2
+EGFR S784F,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+EGFR T790M,Lung Non-small Cell Carcinoma,PREDICTIVE,30,1,31
+EGFR V742A,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+EGFR Y764_V765insHH,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+EML4::ALK Fusion AND ALK C1156Y,Cancer,PREDICTIVE,3,1,4
+EML4::ALK Fusion AND ALK S1206R,Cancer,PREDICTIVE,1,1,2
+EML4::ALK e6::e20,Lung Non-small Cell Carcinoma,PREDICTIVE,4,3,7
+ERBB2 A775_G776insYVMA ,Lung Non-small Cell Carcinoma,PREDICTIVE,2,1,3
+ERBB2 Amplification,Breast Cancer,PREDICTIVE,9,1,10
+ERBB2 Amplification,Colorectal Cancer,PREDICTIVE,10,2,12
+ERBB2 Amplification,Her2-receptor Positive Breast Cancer,PREDICTIVE,31,3,34
+ERBB2 Amplification,Lung Non-small Cell Carcinoma,PREDICTIVE,1,3,4
+ERBB2 Overexpression,Gastroesophageal Junction Adenocarcinoma,PREDICTIVE,1,1,2
+ERBB2 T798I,Breast Cancer,PREDICTIVE,1,2,3
+ERBB2 V777L,Cancer,PREDICTIVE,3,1,4
+ERBB2 Y772_A775DUP,Lung Adenocarcinoma,PREDICTIVE,3,1,4
+ERBB2 Y772_A775DUP,Lung Non-small Cell Carcinoma,PREDICTIVE,3,1,4
+ERCC1 Expression,Bladder Carcinoma,PREDICTIVE,1,1,2
+ESR1 D538G,Breast Cancer,PREDICTIVE,3,1,4
+ETV6::NTRK3 Fusion,Mammary Analogue Secretory Carcinoma,PREDICTIVE,2,1,3
+FGFR1 Amplification,Breast Cancer,PREDICTIVE,12,5,17
+FGFR1 Amplification,Lung Squamous Cell Carcinoma,PROGNOSTIC,2,1,3
+FGFR2 Mutation,Cholangiocarcinoma,PREDICTIVE,3,1,4
+FGFR3 Overexpression,Multiple Myeloma,PREDICTIVE,2,1,3
+FLT3 Amplification,Colorectal Cancer,PREDICTIVE,1,2,3
+FLT3 D593del,Cancer,PREDICTIVE,1,1,2
+FLT3 D835V,Acute Myeloid Leukemia,PREDICTIVE,8,2,10
+FLT3 D835Y,Cancer,PREDICTIVE,2,1,3
+FLT3 D835Y,Leukemia,PREDICTIVE,1,1,2
+FLT3 F691L,Acute Myeloid Leukemia,PREDICTIVE,12,2,14
+FLT3 ITD,Acute Myeloid Leukemia,PROGNOSTIC,13,3,16
+FLT3 ITD,Leukemia,PREDICTIVE,3,1,4
+FLT3 Mutation,Acute Myeloid Leukemia,PROGNOSTIC,1,1,2
+FLT3 Overexpression AND FLT3LG Expression,Cancer,PREDICTIVE,1,1,2
+FLT3 TKD MUTATION,Acute Myeloid Leukemia,PROGNOSTIC,3,1,4
+GNAQ Q209,Uveal Melanoma,PREDICTIVE,1,1,2
+HRAS Q61K AND BRAF G466E,Melanoma,PREDICTIVE,1,1,2
+IDH2 R140,Acute Myeloid Leukemia,PROGNOSTIC,1,2,3
+IDH2 R172K,Acute Myeloid Leukemia,PROGNOSTIC,1,1,2
+IGF2 Overexpression,Prostate Cancer,PREDICTIVE,2,1,3
+KIF5B::RET Fusion AND RET G810A,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+KIT A502_Y503insAY,Cancer,PREDICTIVE,1,1,2
+KIT A502_Y503insAY,Gastrointestinal Stromal Tumor,PREDICTIVE,1,1,2
+KIT A829P,Gastrointestinal Stromal Tumor,PREDICTIVE,1,1,2
+KIT D816E,Gastrointestinal Stromal Tumor,PREDICTIVE,1,1,2
+KIT Exon 11 Mutation,Gastrointestinal Stromal Tumor,PROGNOSTIC,2,2,4
+KIT K642E,Gastrointestinal Stromal Tumor,PREDICTIVE,3,1,4
+KIT N822K,Acute Myeloid Leukemia,PREDICTIVE,2,2,4
+KIT N822K,Gastrointestinal Stromal Tumor,PREDICTIVE,7,1,8
+KIT P551_E554delPMYE,Gastrointestinal Stromal Tumor,PREDICTIVE,4,1,5
+KIT T670I,Gastrointestinal Stromal Tumor,PREDICTIVE,3,2,5
+KIT V560D,Cancer,PREDICTIVE,1,1,2
+KRAS Exon 2 Mutation,Colorectal Cancer,PREDICTIVE,4,2,6
+KRAS G12,Lung Non-small Cell Carcinoma,PROGNOSTIC,1,1,2
+KRAS G12/G13,Colorectal Cancer,PREDICTIVE,4,3,7
+KRAS G12/G13,Colorectal Cancer,PROGNOSTIC,1,2,3
+KRAS G12/G13,Pancreatic Adenocarcinoma,PREDICTIVE,1,1,2
+KRAS G12S,Colorectal Cancer,PREDICTIVE,19,1,20
+KRAS G13D,Colon Cancer,PREDICTIVE,2,1,3
+KRAS G13D,Colorectal Cancer,PREDICTIVE,27,2,29
+KRAS Mutation,Colorectal Cancer,PREDICTIVE,13,3,16
+KRAS Mutation,Lung Non-small Cell Carcinoma,PREDICTIVE,14,5,19
+KRAS Wildtype,Colorectal Cancer,PREDICTIVE,3,1,4
+LYN OVEREXPRESSION,Chronic Myeloid Leukemia,PREDICTIVE,1,1,2
+MET Exon 14 Skipping Mutation,Lung Adenocarcinoma,PREDICTIVE,19,1,20
+MET Overexpression,Skin Melanoma,PREDICTIVE,1,1,2
+MTOR A2034V,Breast Cancer,PREDICTIVE,1,1,2
+MTOR M2327I,Breast Cancer,PREDICTIVE,3,1,4
+NF1 Loss,Malignant Peripheral Nerve Sheath Tumor,PREDICTIVE,1,1,2
+NOTCH1 Mutation,Chronic Lymphocytic Leukemia,PROGNOSTIC,2,1,3
+NPM1 EXON 11 MUTATION,Acute Myeloid Leukemia,PREDICTIVE,6,1,7
+NPM1 EXON 11 MUTATION,Acute Myeloid Leukemia,PROGNOSTIC,15,1,16
+NRAS Mutation,Melanoma,PREDICTIVE,4,2,6
+NRAS Q61,Colorectal Cancer,PREDICTIVE,1,1,2
+NRAS Q61,Follicular Thyroid Carcinoma,PROGNOSTIC,2,1,3
+NRAS Q61K AND BRAF G466V,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+NT5C2 D407A,T-cell Acute Lymphoblastic Leukemia,PREDICTIVE,1,1,2
+NT5C2 K359Q,T-cell Acute Lymphoblastic Leukemia,PREDICTIVE,1,1,2
+NT5C2 R238W,Childhood Acute Lymphocytic Leukemia,PREDICTIVE,1,1,2
+NT5C2 R367Q,Childhood Acute Lymphocytic Leukemia,PREDICTIVE,2,1,3
+NT5C2 R367Q,T-cell Acute Lymphoblastic Leukemia,PREDICTIVE,2,1,3
+NT5C2 S445F,Childhood Acute Lymphocytic Leukemia,PREDICTIVE,1,1,2
+NUP214::ABL1 Fusion,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,2,1,3
+PDGFRA D842V,Gastrointestinal Stromal Tumor,PREDICTIVE,11,1,12
+PDGFRA Exon 18 Mutation,Gastrointestinal Stromal Tumor,PREDICTIVE,1,1,2
+PIK3CA C420R,Her2-receptor Positive Breast Cancer,PREDICTIVE,2,1,3
+PIK3CA E542K,Colorectal Cancer,PREDICTIVE,4,2,6
+PIK3CA E545K,Colorectal Cancer,PREDICTIVE,4,2,6
+PIK3CA E545K,Her2-receptor Positive Breast Cancer,PREDICTIVE,9,3,12
+PIK3CA H1047R,Colorectal Cancer,PREDICTIVE,9,1,10
+PIK3CA H1047R,Her2-receptor Positive Breast Cancer,PREDICTIVE,9,3,12
+PIK3CA K111N,Her2-receptor Positive Breast Cancer,PREDICTIVE,4,3,7
+PIK3CA Mutation,Cancer,PREDICTIVE,4,2,6
+PIK3CA Mutation,Colorectal Cancer,PREDICTIVE,8,4,12
+PIK3CA Mutation,Colorectal Cancer,PROGNOSTIC,1,1,2
+PIK3CA Mutation,Endometrial Cancer,PREDICTIVE,1,1,2
+PIK3CA Mutation,Head And Neck Cancer,PREDICTIVE,1,1,2
+PIK3CA Mutation,Her2-receptor Positive Breast Cancer,PREDICTIVE,5,1,6
+PIK3CA Mutation,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+PIK3CA Q546K,Colorectal Cancer,PREDICTIVE,1,1,2
+PRPS1 A190T,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,2,1,3
+PRPS1 D183E,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,1,1,2
+PRPS1 K176N,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,1,1,2
+PRPS1 L191F,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,2,1,3
+PRPS1 N144S,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,2,1,3
+PRPS1 S103N,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,1,1,2
+PRPS1 S103T,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,2,1,3
+PRPS1 T303S,B-lymphoblastic Leukemia/lymphoma,PREDICTIVE,1,1,2
+PTEN Loss,Breast Cancer,PREDICTIVE,5,2,7
+PTEN Loss,Cancer,PREDICTIVE,2,1,3
+PTEN Loss,Colorectal Cancer,PREDICTIVE,2,1,3
+PTEN Loss,Endometrial Cancer,PREDICTIVE,1,1,2
+PTEN Loss,Her2-receptor Positive Breast Cancer,PREDICTIVE,14,4,18
+PTEN Mutation,Glioblastoma,PREDICTIVE,1,1,2
+RICTOR Amplification,Lung Small Cell Carcinoma,PREDICTIVE,1,1,2
+RRM1 Underexpression,Lung Non-small Cell Carcinoma,PREDICTIVE,7,2,9
+STAG2 MUTATION,Acute Myeloid Leukemia,PROGNOSTIC,1,1,2
+STK11 Loss,Lung Non-small Cell Carcinoma,PREDICTIVE,11,1,12
+STK11 Mutation,Lung Non-small Cell Carcinoma,PREDICTIVE,1,1,2
+TET2 Mutation,Acute Myeloid Leukemia,PROGNOSTIC,4,1,5
+TP53 Mutation,Head And Neck Squamous Cell Carcinoma,PROGNOSTIC,1,2,3
+TP53 Truncating Mutation,Head And Neck Squamous Cell Carcinoma,PROGNOSTIC,1,1,2
+U2AF1 Q157P/R,Myelodysplastic Syndrome,PROGNOSTIC,1,1,2
+VHL G104V (c.311G>T),Von Hippel-Lindau Disease,PREDISPOSING,2,1,3
+VHL Mutation,Renal Cell Carcinoma,PREDICTIVE,2,3,5
+WT1 Exon 7 Mutation,Acute Myeloid Leukemia,PROGNOSTIC,6,2,8
+WT1 Exon 9 Mutation,Acute Myeloid Leukemia,PROGNOSTIC,1,1,2
+ZEB1 Expression,Mantle Cell Lymphoma,PREDICTIVE,3,1,4
+v::NRG1 Fusion,Mucinous Adenocarcinoma,PREDICTIVE,1,1,2

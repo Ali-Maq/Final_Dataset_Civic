@@ -1,0 +1,918 @@
+therapy_names,therapy_interaction_type,count
+Dasatinib,Single Agent,252
+Cetuximab,Single Agent,250
+Crizotinib,Single Agent,234
+Imatinib,Single Agent,215
+Vemurafenib,Single Agent,197
+Erlotinib,Single Agent,189
+Sunitinib,Single Agent,129
+Gefitinib,Single Agent,121
+Afatinib,Single Agent,98
+Bosutinib,Single Agent,90
+Olaparib,Single Agent,84
+Imatinib Mesylate,Single Agent,77
+Cetuximab,Combination,77
+Larotrectinib,Single Agent,73
+Cetuximab,Substitutes,70
+Trametinib,Single Agent,68
+Trametinib,Combination,66
+Panitumumab,Substitutes,63
+Trastuzumab,Combination,61
+Entrectinib,Single Agent,61
+Palbociclib,Single Agent,58
+Erlotinib,Substitutes,56
+Axitinib,Single Agent,55
+Trastuzumab,Single Agent,52
+Gefitinib,Substitutes,52
+Regorafenib Anhydrous,Single Agent,49
+Selumetinib,Single Agent,48
+Dabrafenib,Combination,48
+Imatinib,Substitutes,46
+Fulvestrant,Combination,45
+Osimertinib,Single Agent,44
+Panitumumab,Single Agent,42
+Sorafenib,Single Agent,42
+Lapatinib,Single Agent,39
+Ponatinib,Single Agent,39
+Dasatinib,Substitutes,37
+Chemotherapy,Combination,37
+Venetoclax,Single Agent,35
+Vismodegib,Single Agent,34
+Lapatinib,Combination,32
+Erdafitinib,Single Agent,32
+Nilotinib,Substitutes,31
+Irinotecan,Combination,31
+Cisplatin,Combination,30
+Pembrolizumab,Single Agent,30
+Vemurafenib,Combination,30
+Doxorubicin,Single Agent,29
+Mercaptopurine,Substitutes,29
+Futibatinib,Single Agent,29
+Vemurafenib,Substitutes,29
+Thioguanine,Substitutes,29
+Dactolisib,Single Agent,28
+Rucaparib,Single Agent,27
+Cisplatin,Single Agent,27
+Selpercatinib,Single Agent,27
+Ceritinib,Single Agent,27
+Temozolomide,Single Agent,27
+Bevacizumab,Single Agent,26
+Sunitinib,Substitutes,26
+Dabrafenib,Single Agent,26
+Selumetinib,Combination,26
+Trastuzumab Deruxtecan,Single Agent,26
+Sirolimus,Single Agent,25
+Sorafenib,Substitutes,25
+Infigratinib,Single Agent,24
+Palbociclib,Combination,24
+Neratinib,Single Agent,24
+Nilotinib,Single Agent,24
+Ponatinib,Substitutes,24
+Capivasertib,Combination,24
+Melphalan,Single Agent,24
+MDM2 Inhibitor AMGMDS3,Single Agent,23
+Dabrafenib,Substitutes,23
+Lorlatinib,Single Agent,23
+Everolimus,Single Agent,23
+Alectinib,Single Agent,22
+Dactolisib,Combination,22
+Tazemetostat,Single Agent,21
+Gemcitabine,Combination,19
+Pazopanib,Single Agent,19
+Chemotherapy,Single Agent,19
+Bevacizumab,Combination,19
+Panitumumab,Combination,18
+Midostaurin,Single Agent,18
+Docetaxel,Combination,18
+Trastuzumab Emtansine,Single Agent,18
+Pertuzumab,Combination,17
+Carboplatin,Combination,17
+Gilteritinib,Single Agent,17
+Erlotinib,Combination,17
+Pictilisib,Single Agent,17
+Afatinib,Substitutes,17
+Cisplatin,Substitutes,17
+Paclitaxel,Combination,16
+PI103,Single Agent,16
+Nivolumab,Substitutes,16
+Dasatinib,Combination,16
+Capivasertib,Single Agent,15
+Cabozantinib,Single Agent,15
+Pembrolizumab,Substitutes,15
+Imatinib Mesylate,Substitutes,15
+Trametinib,Substitutes,15
+Dacomitinib,Single Agent,15
+Carboplatin,Substitutes,15
+Capecitabine,Combination,15
+Everolimus,Combination,14
+Ruxolitinib,Single Agent,14
+ALK Inhibitor TAE684,Single Agent,14
+Aspirin,Single Agent,14
+Bafetinib,Substitutes,14
+Lapatinib,Substitutes,14
+Gemcitabine,Single Agent,13
+Elacestrant,Single Agent,13
+Tepotinib,Single Agent,13
+Fluorouracil,Combination,13
+Afatinib,Combination,13
+Olaparib,Combination,12
+Pexidartinib,Single Agent,12
+Enzalutamide,Substitutes,12
+Crizotinib,Combination,12
+BRAF Inhibitor,Single Agent,12
+Alpelisib,Single Agent,11
+Ibrutinib,Single Agent,11
+Atezolizumab,Substitutes,11
+Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,Single Agent,11
+Crenolanib,Substitutes,11
+Tamoxifen,Single Agent,11
+Capmatinib,Single Agent,11
+Prednisone,Single Agent,11
+Alpelisib,Combination,11
+Irinotecan,Single Agent,10
+Lestaurtinib,Substitutes,10
+Paclitaxel,Single Agent,10
+Abiraterone,Substitutes,10
+Neratinib,Combination,10
+Crizotinib,Substitutes,10
+Selumetinib,Substitutes,10
+R3Mab,Single Agent,10
+Quizartinib,Substitutes,10
+Talazoparib,Single Agent,10
+Tretinoin,Single Agent,10
+Trastuzumab,Substitutes,10
+Mitogen-Activated Protein Kinase Kinase Inhibitor,Combination,10
+Cytarabine,Substitutes,10
+Imatinib Mesylate,Combination,10
+Gefitinib,Combination,10
+Brigatinib,Single Agent,9
+Oxaliplatin,Single Agent,9
+Methotrexate,Substitutes,9
+Midostaurin,Substitutes,9
+Pralsetinib,Substitutes,9
+Cobimetinib,Single Agent,9
+Selpercatinib,Substitutes,9
+Sorafenib,Combination,9
+Tamoxifen,Substitutes,9
+Platinum Compound,Single Agent,9
+Sotorasib,Combination,9
+Gemcitabine,Substitutes,9
+Oxaliplatin,Combination,9
+PI3Ka/Di,Single Agent,9
+Talazoparib,Combination,9
+Binimetinib,Combination,8
+Regorafenib Anhydrous,Substitutes,8
+Repotrectinib,Single Agent,8
+Asparaginase,Substitutes,8
+Sotorasib,Single Agent,8
+BRAF Inhibitor,Combination,8
+Fluorouracil,Single Agent,8
+Nivolumab,Single Agent,8
+Ivosidenib,Single Agent,8
+Inavolisib,Combination,8
+Fexagratinib,Single Agent,8
+Alectinib,Substitutes,8
+Daunorubicin,Substitutes,8
+Binimetinib,Single Agent,8
+Quizartinib,Single Agent,8
+Cobimetinib,Combination,8
+Encorafenib,Combination,8
+Nilotinib,Combination,7
+Fluorouracil,Substitutes,7
+Crenolanib,Single Agent,7
+Docetaxel,Single Agent,7
+Enzalutamide,Combination,7
+Dovitinib,Single Agent,7
+Ribociclib,Combination,7
+MTOR Inhibitor,Single Agent,7
+MEK Inhibitor CI-1040,Single Agent,7
+Ceritinib,Substitutes,7
+Atezolizumab,Single Agent,7
+PI-103,Single Agent,7
+JQ1,Single Agent,7
+PD173074,Substitutes,7
+Osimertinib,Combination,7
+Letrozole,Combination,6
+Temsirolimus,Single Agent,6
+Vandetanib,Single Agent,6
+Palbociclib,Substitutes,6
+Temsirolimus,Substitutes,6
+Temozolomide,Combination,6
+Pacritinib,Combination,6
+Olaparib,Substitutes,6
+Osimertinib,Substitutes,6
+PLX4720,Combination,6
+Paclitaxel,Substitutes,6
+Etoposide,Combination,6
+Pralsetinib,Single Agent,6
+Pembrolizumab,Combination,6
+Fulvestrant,Substitutes,6
+Pemetrexed,Single Agent,6
+Pemigatinib,Single Agent,6
+Pemetrexed,Combination,6
+Doxorubicin,Substitutes,6
+Crizotinib,Sequential,5
+Dexamethasone,Combination,5
+Immune Checkpoint Inhibitor,Single Agent,5
+Infigratinib,Substitutes,5
+Entrectinib,Substitutes,5
+SU11274,Single Agent,5
+Pictilisib,Substitutes,5
+Platinum Compound,Combination,5
+MEK Inhibitor RO4987655,Single Agent,5
+Lorlatinib,Substitutes,5
+Neratinib,Substitutes,5
+Ipilimumab,Single Agent,5
+Imatinib,Combination,5
+Pazopanib,Combination,5
+Hormone Therapy,Single Agent,5
+GSK126,Single Agent,5
+Pertuzumab,Substitutes,5
+Talazoparib,Substitutes,5
+Brigatinib,Substitutes,5
+Taselisib,Single Agent,5
+Sonidegib,Single Agent,5
+Eprenetapopt,Combination,4
+Panobinostat,Single Agent,4
+Sirolimus,Combination,4
+Vorasidenib,Single Agent,4
+Lestaurtinib,Single Agent,4
+Niraparib,Single Agent,4
+Poziotinib,Single Agent,4
+Dovitinib,Substitutes,4
+Cytarabine,Combination,4
+Radiation Therapy,Combination,4
+Duligotuzumab,Substitutes,4
+PD173074,Single Agent,4
+Mitogen-Activated Protein Kinase Kinase Inhibitor,Single Agent,4
+Docetaxel,Substitutes,4
+Enasidenib,Single Agent,4
+Daunorubicin,Combination,4
+Foretinib,Single Agent,4
+Everolimus,Substitutes,4
+FLT3 Tyrosine Kinase Inhibitor TTT-3002,Substitutes,4
+Temsirolimus,Combination,4
+Metformin,Combination,4
+Larotrectinib,Substitutes,4
+Mirdametinib,Single Agent,4
+Akt Inhibitor MK2206,Single Agent,4
+Arabinosylguanine,Substitutes,4
+Linifanib,Substitutes,4
+Nelarabine,Substitutes,4
+Mirdametinib,Combination,4
+Adavosertib,Single Agent,4
+Arsenic Trioxide,Single Agent,4
+Trabectedin,Single Agent,4
+Trastuzumab,Sequential,3
+Letetresgene Autoleucel,Single Agent,3
+Linsitinib,Substitutes,3
+Linsitinib,Combination,3
+Ensartinib,Single Agent,3
+Ipatasertib,Single Agent,3
+Osimertinib,Sequential,3
+Dordaviprone,Single Agent,3
+Refametinib,Single Agent,3
+ARS-1620,Combination,3
+AG1295,Substitutes,3
+Multikinase Inhibitor AEE788,Single Agent,3
+Multikinase Inhibitor AEE788,Substitutes,3
+Abemaciclib,Single Agent,3
+AZD-4547,Single Agent,3
+Zongertinib,Single Agent,3
+Vandetanib,Combination,3
+Avelumab,Substitutes,3
+Cytarabine,Single Agent,3
+RDEA 119,Single Agent,3
+R406,Substitutes,3
+Prednisolone,Substitutes,3
+Canertinib,Single Agent,3
+Capecitabine,Substitutes,3
+Capmatinib,Combination,3
+RapaLink-1,Substitutes,3
+PD98059,Substitutes,3
+Durvalumab,Combination,3
+Durvalumab,Single Agent,3
+EAP Protocol,Single Agent,3
+Durvalumab,Substitutes,3
+Doxorubicin,Combination,3
+Cisplatin/Pembrolizumab/Pemetrexed Regimen,Single Agent,3
+Icotinib,Single Agent,3
+Abiraterone Acetate,Single Agent,3
+Ridaforolimus,Substitutes,3
+Ribociclib,Substitutes,3
+Vorinostat,Substitutes,3
+Rociletinib,Single Agent,3
+Deguelin,Single Agent,3
+Decitabine,Single Agent,3
+Daunorubicin,Single Agent,3
+Dinaciclib,Single Agent,3
+Dinaciclib,Combination,3
+Dactolisib,Substitutes,3
+Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,Combination,3
+Sirolimus,Substitutes,3
+Azacitidine,Combination,3
+Tegafur,Substitutes,3
+Sunitinib,Sequential,3
+Brigatinib,Combination,3
+Perifosine,Substitutes,3
+Sapanisertib,Single Agent,3
+Dual IGF-1R/InsR Inhibitor BMS-754807,Single Agent,3
+Savolitinib,Single Agent,3
+Pictilisib,Combination,3
+Sunitinib,Combination,3
+Tanespimycin,Single Agent,3
+Futuximab/Modotuximab Mixture,Substitutes,3
+Avapritinib,Single Agent,3
+Atezolizumab,Combination,3
+B-Raf/VEGFR-2 Inhibitor RAF265,Combination,3
+Tanespimycin,Substitutes,3
+Everolimus,Sequential,3
+Tretinoin,Combination,3
+MTOR Kinase Inhibitor PP242,Substitutes,3
+Methotrexate,Single Agent,3
+Vistusertib,Single Agent,3
+Mirdametinib,Substitutes,3
+Amivantamab,Combination,3
+Alisertib,Combination,3
+Akt Inhibitor MK2206,Combination,3
+Mitomycin,Combination,3
+Buparlisib,Single Agent,3
+Asciminib,Single Agent,3
+MTOR Kinase Inhibitor AZD8055,Substitutes,3
+Anti-VEGF Monoclonal Antibody,Single Agent,3
+Vorinostat,Single Agent,3
+Tipifarnib,Single Agent,3
+Neratinib,Sequential,3
+Leucovorin,Combination,3
+Lomustine,Combination,2
+Lucitanib,Single Agent,2
+Levoleucovorin,Combination,2
+Amrubicin,Single Agent,2
+Angiogenesis Inhibitor,Single Agent,2
+Tovorafenib,Single Agent,2
+Teprotumumab,Combination,2
+Therapeutic Tumor Infiltrating Lymphocytes,Single Agent,2
+Aromatase Inhibitor,Single Agent,2
+Anti-EGFR Monoclonal Antibody,Single Agent,2
+Anti-ErbB3 Monoclonal Antibody AV-203,Single Agent,2
+Anti-PD-1 Monoclonal Antibody MEDI0680,Combination,2
+Anti-PD-L1 Monoclonal Antibody,Single Agent,2
+Anti-PD-L1 Monoclonal Antibody,Substitutes,2
+Anti-PD1 Monoclonal Antibody,Single Agent,2
+Adjuvant Chemotherapy,Single Agent,2
+Asparaginase,Single Agent,2
+Apitolisib,Combination,2
+Meloxicam,Single Agent,2
+MTOR Kinase Inhibitor PP242,Single Agent,2
+Vinorelbine,Substitutes,2
+Mitomycin,Substitutes,2
+Mobocertinib,Single Agent,2
+Mercaptopurine,Combination,2
+Methotrexate,Combination,2
+Alvespimycin,Combination,2
+Alectinib,Sequential,2
+Mitomycin,Single Agent,2
+U0126,Single Agent,2
+Trichostatin A,Substitutes,2
+Triciribine,Single Agent,2
+Tucatinib,Combination,2
+Tremelimumab,Combination,2
+Buparlisib,Combination,2
+Birabresib,Single Agent,2
+Bortezomib,Single Agent,2
+Futuximab/Modotuximab Mixture,Single Agent,2
+Fexagratinib,Substitutes,2
+FOLFIRI Regimen,Combination,2
+Sotrastaurin Acetate,Combination,2
+Spliceostatin A,Single Agent,2
+CTX-712,Single Agent,2
+Cabozantinib,Sequential,2
+CDK Inhibitor SNS-032,Combination,2
+CDK4/6 Inhibition,Single Agent,2
+Foretinib,Substitutes,2
+Fulvestrant,Single Agent,2
+Taletrectinib,Single Agent,2
+Tamoxifen,Combination,2
+Sulindac,Substitutes,2
+Pertuzumab,Single Agent,2
+Pexidartinib,Combination,2
+Phosphatidylinositide 3-Kinase Inhibitor,Combination,2
+Phosphatidylinositide 3-Kinase Inhibitor,Single Agent,2
+Salirasib,Single Agent,2
+Cediranib,Combination,2
+Celecoxib,Single Agent,2
+Capmatinib,Substitutes,2
+Ponatinib,Combination,2
+Pidnarulex,Substitutes,2
+Sapanisertib,Substitutes,2
+Selitrectinib,Single Agent,2
+SU5614,Single Agent,2
+Sacituzumab Govitecan,Single Agent,2
+Exemestane,Combination,2
+Exemestane,Substitutes,2
+Erlotinib,Sequential,2
+Etoposide,Substitutes,2
+Sorafenib,Sequential,2
+Prexasertib,Combination,2
+"FGF/VEGF Receptor Tyrosine Kinase Inhibitor, PD173074",Single Agent,2
+"FGF/VEGF Receptor Tyrosine Kinase Inhibitor, PD173074",Substitutes,2
+FLT3 Inhibitor FF-10101 Succinate,Single Agent,2
+FLT3/ABL/Aurora Kinase Inhibitor KW-2449,Single Agent,2
+Tarextumab,Single Agent,2
+Taselisib,Combination,2
+Taxane Compound,Combination,2
+Pan-AKT Kinase Inhibitor GSK690693,Single Agent,2
+PLX4720,Single Agent,2
+BET Inhibitor,Single Agent,2
+Aspirin,Substitutes,2
+Aumolertinib,Single Agent,2
+Panobinostat,Substitutes,2
+Taxane Compound,Single Agent,2
+Bicalutamide,Single Agent,2
+BPTES,Single Agent,2
+Belinostat,Single Agent,2
+Axitinib,Substitutes,2
+FOLFOX-4 Regimen,Combination,2
+HDAC Inhibitor REC-2282,Single Agent,2
+Hematopoietic Cell Transplantation,Sequential,2
+Ganetespib,Single Agent,2
+Rezatapopt,Single Agent,2
+Rovalpituzumab Tesirine,Single Agent,2
+RG7112,Single Agent,2
+RG7356,Single Agent,2
+Quarfloxin,Substitutes,2
+R-CHOP Regimen,Single Agent,2
+Capivasertib,Substitutes,2
+Rebemadlin,Single Agent,2
+Carboplatin,Sequential,2
+Carboplatin/Pemetrexed Regimen,Combination,2
+Cabozantinib,Substitutes,2
+EPZ011989,Single Agent,2
+Panobinostat,Combination,2
+Nimotuzumab,Single Agent,2
+Niraparib,Combination,2
+Niraparib,Substitutes,2
+Nirogacestat,Single Agent,2
+Adagrasib,Combination,2
+KRAS G12D Inhibitor HRS-4642,Single Agent,2
+KW2449,Substitutes,2
+JQEZ5,Single Agent,2
+Izorlisib,Single Agent,2
+JQ-1,Single Agent,2
+Ipilimumab/Nivolumab Regimen,Single Agent,2
+Irbesartan,Single Agent,2
+PI3K/BET Inhibitor LY294002,Combination,2
+PI3Kbeta Inhibitor AZD8186,Combination,2
+PD1 Inhibitor,Single Agent,2
+Oxaliplatin,Substitutes,2
+Omacetaxine Mepesuccinate,Single Agent,2
+Inhibitor,Single Agent,2
+Imatinib,Sequential,2
+Apitolisib,Single Agent,2
+Elimusertib,Single Agent,2
+Dovitinib,Combination,2
+Derazantinib,Single Agent,2
+Dasatinib,Sequential,2
+Ribociclib,Single Agent,2
+Rigosertib,Substitutes,2
+Dostarlimab,Combination,2
+Venetoclax,Combination,2
+SAIT301,Single Agent,2
+Ripretinib,Single Agent,2
+Rociletinib,Substitutes,2
+Rogaratinib,Combination,2
+IGF1R Monoclonal Antibody,Combination,2
+Abiraterone,Single Agent,2
+ALK2 Inhibitor LDN-193189,Single Agent,2
+AGI-5198,Single Agent,2
+5-Fluorouracil/Salicylic Acid Topical Solution,Single Agent,2
+Veliparib,Substitutes,2
+Zenocutuzumab-zbco,Single Agent,2
+Zolbetuximab,Combination,2
+Uprosertib,Single Agent,2
+Abemaciclib,Substitutes,2
+Abiraterone,Combination,2
+NSC84167,Single Agent,2
+Motesanib,Single Agent,2
+Mitogen-Activated Protein Kinase Kinase Inhibitor,Substitutes,2
+Veliparib,Combination,2
+Veliparib,Single Agent,2
+Linsitinib,Single Agent,2
+Lometrexol,Combination,2
+Lenvatinib,Substitutes,2
+AGS324,Substitutes,2
+"2,4-pyrimidinediamine",Single Agent,1
+9F7-F11,Combination,1
+A66,Single Agent,1
+ACLY SiRNA,Single Agent,1
+AKTi-1/2,Single Agent,1
+ALK Inhibitor ASP3026,Substitutes,1
+ALK Inhibitor TAE684,Substitutes,1
+ALK/TRK Inhibitor TSR-011,Substitutes,1
+AMG511,Combination,1
+ARQ092,Substitutes,1
+ARS-1620,Single Agent,1
+ARS-853,Combination,1
+AS602868,Substitutes,1
+AXL Receptor Tyrosine Kinase/cMET Inhibitor BPI-9016M,Single Agent,1
+AZ12908010,Substitutes,1
+AZ20,Substitutes,1
+AZ628,Substitutes,1
+AZ909,Combination,1
+AZD3463,Single Agent,1
+AZD3463,Substitutes,1
+AZD5438,Single Agent,1
+Abexinostat,Combination,1
+UO126,Single Agent,1
+VE-821,Substitutes,1
+VEGF/VEGFR Inhibitors,Single Agent,1
+VTX-11e,Substitutes,1
+Valproic Acid,Single Agent,1
+Valproic Acid,Substitutes,1
+Vatalanib,Combination,1
+Vatalanib,Substitutes,1
+Verteporfin,Combination,1
+Agerafenib,Single Agent,1
+Akt Inhibitor MK2206,Substitutes,1
+Alemtuzumab,Single Agent,1
+Alisertib,Single Agent,1
+Alvespimycin,Single Agent,1
+Alvocidib,Combination,1
+Alvocidib,Single Agent,1
+Aminoglutethimide,Substitutes,1
+Apalutamide,Substitutes,1
+Arsenic Trioxide,Combination,1
+Arsenic Trioxide,Substitutes,1
+Asciminib,Substitutes,1
+Adagrasib,Single Agent,1
+Ado-trastuzumab Emtansine Regimen,Single Agent,1
+Afamitresgene Autoleucel,Single Agent,1
+Afimoxifene,Single Agent,1
+Anti-CD123,Combination,1
+Anti-CD33,Combination,1
+Anti-CD33,Single Agent,1
+Anti-CTLA-4 Monoclonal Antibody,Substitutes,1
+Anti-HER3 Monoclonal Antibody GSK2849330,Single Agent,1
+Anti-TIM-3 Monoclonal Antibody,Combination,1
+Antiestrogen Therapy,Combination,1
+Anvumetostat,Single Agent,1
+Tisagenlecleucel,Single Agent,1
+Tizaterkib,Combination,1
+Tofacitinib,Single Agent,1
+Topotecan,Combination,1
+Tozasertib,Single Agent,1
+Trabectedin,Combination,1
+Amuvatinib,Single Agent,1
+Anthracycline Antineoplastic Antibiotic,Combination,1
+Nedaplatin,Combination,1
+Niacinamide,Single Agent,1
+Nilutamide,Substitutes,1
+Nimotuzumab,Combination,1
+Ningetinib,Single Agent,1
+Nintedanib,Single Agent,1
+Nivolumab,Combination,1
+Not Applicable,Single Agent,1
+Lonafarnib,Single Agent,1
+Lucitanib,Substitutes,1
+Luminespib,Sequential,1
+Lumretuzumab,Combination,1
+NVP-AST487,Combination,1
+Naquotinib,Sequential,1
+Navtemadlin,Sequential,1
+Navtemadlin,Single Agent,1
+NVP-AEW541,Single Agent,1
+Lapatinib,Sequential,1
+Larotrectinib,Combination,1
+Larotrectinib Regimen,Single Agent,1
+Lazertinib,Combination,1
+Lenalidomide,Substitutes,1
+Lenvatinib,Single Agent,1
+Leuprolide,Combination,1
+Monomethyl Auristatin E,Substitutes,1
+Multi-subtype Natural Human Leukocyte Interferon Alpha,Single Agent,1
+Multikinase Inhibitor AEE788,Sequential,1
+NCT00137111,Single Agent,1
+NOTCH1 Antibody (PF-06293622),Single Agent,1
+NSC348884,Combination,1
+NSC348884,Single Agent,1
+NU7441,Substitutes,1
+Onalespib,Combination,1
+Onartuzumab,Single Agent,1
+Onatasertib,Substitutes,1
+PARP Inhibitor ABT-888,Single Agent,1
+PARP Inhibitor AZD2461,Single Agent,1
+PCV Regimen,Substitutes,1
+PD-1 Ligand Inhibitor,Single Agent,1
+PD-180970,Substitutes,1
+JSI-124,Substitutes,1
+JW55,Single Agent,1
+K 252a,Substitutes,1
+KG5,Substitutes,1
+KU-0060648,Substitutes,1
+L19IL2,Combination,1
+L19IL2,Single Agent,1
+Omipalisib,Combination,1
+JAK2 Inhibitor AZD1480,Single Agent,1
+JNJ38877605,Sequential,1
+JQ1,Combination,1
+JQ1,Substitutes,1
+JQ1 Compound,Single Agent,1
+JQEZ5,Combination,1
+JQEZ5,Substitutes,1
+JSI-124,Single Agent,1
+Nutlin-3,Combination,1
+O6-Benzylguanine,Single Agent,1
+OICR-9429,Single Agent,1
+Ipilimumab,Substitutes,1
+Irinotecan,Substitutes,1
+Ivosidenib,Combination,1
+Ixazomib,Single Agent,1
+JAK Inhibitor I,Single Agent,1
+Paclitaxel Liposome,Sequential,1
+Pan-Mutant-IDH1 Inhibitor Bay-1436032,Single Agent,1
+Pan-RAF Inhibitor LY3009120,Single Agent,1
+Panitumumab Regimen,Single Agent,1
+Pasireotide,Single Agent,1
+Patidegib,Single Agent,1
+Patritumab,Single Agent,1
+Patritumab Deruxtecan,Single Agent,1
+Interventional Radiology Procedure,Single Agent,1
+Iodine I-131,Single Agent,1
+Ionizing Radiotherapy,Sequential,1
+Ipilimumab,Combination,1
+PLX4720,Substitutes,1
+PLX8725,Single Agent,1
+PSI,Substitutes,1
+Paclitaxel,Sequential,1
+IRAK-1/4 Inhibitor,Substitutes,1
+Ibuprofen,Substitutes,1
+Icotinib,Sequential,1
+Idarubicin,Single Agent,1
+Idelalisib,Single Agent,1
+Immunomodulatory Oligonucleotide,Combination,1
+Immunotherapy,Single Agent,1
+Iniparib,Single Agent,1
+PD1 Inhibitor,Combination,1
+PHA-665752,Sequential,1
+PI3K/BET Inhibitor LY294002,Substitutes,1
+PI3Kbeta Inhibitor AZD8186,Single Agent,1
+I-BET151,Substitutes,1
+ICX-101,Sequential,1
+IGF1R Monoclonal Antibody,Single Agent,1
+IMG-2005-5,Substitutes,1
+FOLFOX Regimen,Single Agent,1
+FOLFOX-6 Regimen,Combination,1
+Fadraciclib,Combination,1
+Fasudil,Combination,1
+Fedratinib,Single Agent,1
+Fexagratinib,Combination,1
+Fisogatinib,Single Agent,1
+Fludarabine,Combination,1
+HCI-2509,Single Agent,1
+HDAC Inhibitor OBP-801,Single Agent,1
+HDM2 Inhibitor MK-8242,Single Agent,1
+"HER2 Inhibitor CP-724,714",Substitutes,1
+Hydroxychloroquine,Combination,1
+HyperCVAD Regimen,Single Agent,1
+Hyperthermic Intraperitoneal Chemotherapy,Combination,1
+FLT3/ABL/Aurora Kinase Inhibitor KW-2449,Substitutes,1
+Galeterone,Substitutes,1
+Galiximab,Combination,1
+Ganitumab,Combination,1
+Ganitumab,Single Agent,1
+Gefitinib,Sequential,1
+Gemtuzumab Ozogamicin,Single Agent,1
+Go6983,Substitutes,1
+Guadecitabine,Combination,1
+Pazopanib,Sequential,1
+Pegargiminase,Combination,1
+Peginterferon Alfa-2a,Single Agent,1
+GSK126,Combination,1
+GSK126,Sequential,1
+GSK126,Substitutes,1
+GSK321,Single Agent,1
+GW-2580,Substitutes,1
+FAC Regimen,Substitutes,1
+FACT Complex-targeting Curaxin CBL0137,Single Agent,1
+FEC Regimen,Substitutes,1
+FGFR Inhibitor ASP5878,Single Agent,1
+FGFR4 Inhibitor H3B-6527,Single Agent,1
+Prednisone,Combination,1
+Pyridostatin,Single Agent,1
+Pyrimidine Antagonist,Single Agent,1
+Porcupine Inhibitor WNT974,Single Agent,1
+Epirubicin,Single Agent,1
+Erdafitinib,Combination,1
+Erdafitinib Regimen,Single Agent,1
+Eribulin,Combination,1
+Erlotinib Hydrochloride,Single Agent,1
+Etoposide,Sequential,1
+Etoposide,Single Agent,1
+Peginterferon Alfa-2b,Single Agent,1
+Picoplatin,Substitutes,1
+Pictilisib Bismesylate,Combination,1
+Pilaralisib,Combination,1
+Pixantrone,Substitutes,1
+Platinum Doublet,Single Agent,1
+Pomalidomide,Substitutes,1
+Ponatinib,Sequential,1
+Flutamide,Substitutes,1
+G-573,Substitutes,1
+G-Quadruplex Stabilizer BMVC,Combination,1
+G007-LK,Single Agent,1
+GDC-0879,Combination,1
+GF109203X,Substitutes,1
+GNE-617,Single Agent,1
+GPI-15427,Single Agent,1
+Datopotamab Deruxtecan,Single Agent,1
+Datopotamab Deruxtecan Regimen,Single Agent,1
+Decitabine,Combination,1
+Disitamab Vedotin,Substitutes,1
+Divarasib,Single Agent,1
+Dostarlimab,Single Agent,1
+Refametinib,Combination,1
+Regorafenib,Single Agent,1
+EZH2 Inhibitor,Single Agent,1
+Endocrine Drug Therapy,Combination,1
+Enfortumab Vedotin,Single Agent,1
+Enzalutamide,Single Agent,1
+Enzastaurin,Single Agent,1
+Dacarbazine,Combination,1
+Dacomitinib,Substitutes,1
+Daromun,Single Agent,1
+Ramucirumab,Combination,1
+Ramucirumab,Single Agent,1
+Rebastinib,Substitutes,1
+Doxorubicin,Sequential,1
+Durvalumab Regimen,Combination,1
+EGFR Tyrosine Kinase Inhibitor Therapy,Combination,1
+EPZ004777,Single Agent,1
+ERBB3 Inhibitor,Combination,1
+Pyrotinib,Single Agent,1
+Quizartinib,Sequential,1
+RG5,Substitutes,1
+RG7112,Sequential,1
+RMC-4550,Combination,1
+Radiation Therapy,Single Agent,1
+Radioactive Iodine,Single Agent,1
+Raltitrexed,Single Agent,1
+DVP Regimen,Substitutes,1
+Dabrafenib/Trametinib Regimen,Single Agent,1
+Capmatinib,Sequential,1
+Carboplatin/Paclitaxel Regimen,Combination,1
+Carfilzomib,Single Agent,1
+Carmustine,Single Agent,1
+Celecoxib,Substitutes,1
+Ceritinib,Sequential,1
+Cobimetinib,Substitutes,1
+Conatumumab,Single Agent,1
+Copanlisib,Combination,1
+Copanlisib,Single Agent,1
+Cyclophosphamide,Combination,1
+Cyproterone Acetate,Substitutes,1
+Cytoreductive Surgery,Combination,1
+DS-6501b,Single Agent,1
+Rucaparib,Substitutes,1
+SB202190,Single Agent,1
+SCH772984,Combination,1
+SGK1-Inh,Combination,1
+Chlorambucil,Substitutes,1
+Chloroquine,Combination,1
+Cisplatin,Sequential,1
+Cixutumumab,Substitutes,1
+Retaspimycin Hydrochloride,Combination,1
+Retaspimycin Hydrochloride,Single Agent,1
+Revumenib,Single Agent,1
+Rilotumumab,Single Agent,1
+Rindopepimut,Single Agent,1
+Roflumilast,Single Agent,1
+Rogaratinib,Single Agent,1
+Rogaratinib,Substitutes,1
+CDK4/6 Inhibition,Combination,1
+CH6953755,Substitutes,1
+CHMFL-KIT-031,Single Agent,1
+CHZ868,Single Agent,1
+CTLA-4 Inhibitor,Substitutes,1
+Cabazitaxel,Combination,1
+Cabazitaxel,Single Agent,1
+Cabazitaxel,Substitutes,1
+Birabresib,Combination,1
+Bortezomib,Combination,1
+Bosutinib,Combination,1
+C-Met Inhibitor,Combination,1
+C646,Single Agent,1
+CAN508,Combination,1
+CAPOX Regimen,Combination,1
+CDK Inhibitor SNS-032,Single Agent,1
+Sapanisertib,Combination,1
+Selinexor,Combination,1
+Selumetinib,Sequential,1
+Seribantumab,Single Agent,1
+Sertraline,Single Agent,1
+Sonidegib,Combination,1
+Sonidegib,Sequential,1
+Binimetinib,Substitutes,1
+Cetuximab/Encorafenib Regimen,Single Agent,1
+Checkpoint Kinase Inhibitor AZD7762,Combination,1
+Checkpoint Kinase Inhibitor AZD7762,Single Agent,1
+SU5614,Substitutes,1
+Safusidenib,Single Agent,1
+Salinomycin,Combination,1
+Salinomycin,Single Agent,1
+Samotolisib,Single Agent,1
+Telmisartan,Single Agent,1
+Temozolomide,Substitutes,1
+Tepotinib,Combination,1
+Tepotinib,Substitutes,1
+Teprotumumab,Substitutes,1
+Tgx 221,Single Agent,1
+Therapeutic Glucocorticoid,Single Agent,1
+Tirbanibulin,Single Agent,1
+Belvarafenib,Single Agent,1
+Bevacizumab,Substitutes,1
+Bevacizumab/Lomustine Regimen,Single Agent,1
+Bicalutamide,Combination,1
+Bicalutamide,Substitutes,1
+Taxol,Substitutes,1
+Tazemetostat,Combination,1
+Tazemetostat,Sequential,1
+Tarloxotinib,Sequential,1
+Aurora A Kinase Inhibitor LY3295668 Erbumine,Single Agent,1
+Azathioprine,Substitutes,1
+BCR-ABL Inhibitor HS-10382,Substitutes,1
+BMVC-8C3O,Combination,1
+BRAF Inhibitor,Substitutes,1
+Barasertib,Combination,1
+Bazedoxifene,Single Agent,1
+Sorafenib Tosylate,Single Agent,1
+Stattic,Substitutes,1
+Staurosporine,Single Agent,1
+TAK-788,Single Agent,1
+TRK Inhibitor,Single Agent,1
+Tamibarotene,Substitutes,1
+Tandutinib,Single Agent,1
+Tandutinib,Substitutes,1
+WHI-P154,Single Agent,1
+WYE354,Substitutes,1
+WZ4002,Single Agent,1
+4'-(9-acridinylamino)methanesulfon-m-anisidide,Substitutes,1
+Ziftomenib,Single Agent,1
+3-Dimensional Conformal Radiation Therapy,Combination,1
+Zoledronic Acid,Combination,1
+Verteporfin,Single Agent,1
+UNC1062,Single Agent,1
+UNC1999,Combination,1
+Vociprotafib,Combination,1
+Volasertib,Single Agent,1
+7-Ethyl-10-Hydroxycamptothecin,Substitutes,1
+Vorinostat,Combination,1
+7-Ethyl-10-Hydroxycamptothecin,Single Agent,1
+5-Fluoro-2-Deoxycytidine,Combination,1
+Tretinoin,Substitutes,1
+Trichostatin A,Single Agent,1
+Tunlametinib,Substitutes,1
+Tyrosine Kinase Inhibitor,Single Agent,1
+Tyrosine Kinase Inhibitor SU5402,Substitutes,1
+Tyrphostin AG 1295,Substitutes,1
+Tyrphostin AG 1296,Single Agent,1
+Tyrphostin AG 1296,Substitutes,1
+Amivantamab,Single Agent,1
+Amphotericin B,Single Agent,1
+Trametinib,Sequential,1
+Tranilast,Single Agent,1
+Trastuzumab Deruxtecan,Sequential,1
+Trastuzumab Deruxtecan Regimen,Substitutes,1
+Trastuzumab Emtansine,Substitutes,1
+Trastuzumab Emtansine Regimen,Substitutes,1
+Midostaurin,Combination,1
+Midostaurin,Sequential,1
+Mitogen-Activated Protein Kinase Kinase Inhibitor,Sequential,1
+Mobocertinib,Sequential,1
+Mocetinostat,Single Agent,1
+Mocetinostat,Substitutes,1
+Molibresib,Single Agent,1
+Monensin,Single Agent,1
+MRNA Vaccine,Combination,1
+MTOR Kinase Inhibitor AZD8055,Single Agent,1
+MUC1-targeted Peptide GO-203-2C,Single Agent,1
+MVT Regimen,Substitutes,1
+Margetuximab,Single Agent,1
+Mcl-1 Inhibitor MIK665,Single Agent,1
+Melphalan,Substitutes,1
+Metformin,Single Agent,1
+Lysine,Single Agent,1
+MAP855,Single Agent,1
+MC1568,Substitutes,1
+MEK Inhibitor CI-1040,Combination,1
+MEK Inhibitor GDC-0623,Substitutes,1
+MEK Inhibitor REC-4881,Single Agent,1
+MEK-1/MEKK-1 Inhibitor E6201,Single Agent,1
+MET Tyrosine Kinase Inhibitor SGX523,Single Agent,1
+Vincristine,Combination,1
+Vincristine,Sequential,1
+Vincristine,Single Agent,1
+Vincristine,Substitutes,1
+Vinorelbine,Combination,1
+Vinorelbine,Single Agent,1
+Vismodegib,Sequential,1
+Vistusertib,Substitutes,1

@@ -1,0 +1,16 @@
+disease_name,DIAGNOSTIC,FUNCTIONAL,ONCOGENIC,PREDICTIVE,PREDISPOSING,PROGNOSTIC
+Von Hippel-Lindau Disease,4.0,0.0,0.0,2.0,2816.0,0.0
+Lung Non-small Cell Carcinoma,2.0,0.0,1.0,797.0,1.0,34.0
+Colorectal Cancer,4.0,0.0,44.0,605.0,2.0,60.0
+Chronic Myeloid Leukemia,6.0,0.0,2.0,511.0,0.0,2.0
+Cancer,0.0,1.0,67.0,327.0,3.0,4.0
+Acute Myeloid Leukemia,28.0,0.0,22.0,182.0,18.0,132.0
+Breast Cancer,3.0,0.0,4.0,238.0,9.0,51.0
+Melanoma,2.0,0.0,0.0,257.0,3.0,9.0
+Lung Adenocarcinoma,2.0,0.0,11.0,229.0,0.0,15.0
+Gastrointestinal Stromal Tumor,2.0,0.0,1.0,231.0,1.0,5.0
+Diffuse Large B-cell Lymphoma,5.0,0.0,99.0,13.0,0.0,9.0
+Glioblastoma,19.0,0.0,11.0,67.0,0.0,18.0
+Her2-receptor Positive Breast Cancer,0.0,0.0,0.0,113.0,0.0,1.0
+B-lymphoblastic Leukemia/lymphoma,4.0,0.0,12.0,65.0,0.0,32.0
+"B-lymphoblastic Leukemia/lymphoma, BCR-ABL1‚Äìlike",74.0,0.0,6.0,19.0,0.0,4.0

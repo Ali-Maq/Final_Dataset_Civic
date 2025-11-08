@@ -1,0 +1,2 @@
+total_sources,total_evidence_items,median_evidence_per_source,mean_evidence_per_source,p90_evidence_per_source,max_evidence_per_source,top1_share_percent,top10_share_percent,top100_share_percent
+4089,11316,1.0,2.7674247982391784,5.0,87,0.7688229056203606,5.708731000353482,29.197596323789327

@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 output/
+# Local ontology data (can be regenerated)
+data/ontologies/*.obo
+data/ontologies/*.txt
+data/databases/*.db
+data/databases/*.db-journal

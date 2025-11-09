@@ -1,0 +1,44 @@
+{
+  "tier1_agents": {
+    "Disease Extractor": {
+      "status": "\u2705 SUCCESS",
+      "output": "```json\n{\n    \"disease_name\": \"Non-small cell lung cancer\",\n    \"disease_subtype\": \"EGFR T790M mutation\",\n    \"disease_stage\": \"Advanced\",\n    \"histology\": null,\n    \"classification_system\": null\n}\n``..."
+    },
+    "Variant Extractor": {
+      "status": "\u2705 SUCCESS",
+      "output": "```json\n{\n  \"gene_name\": \"EGFR\",\n  \"variant_name\": \"T790M\",\n  \"hgvs_protein\": \"p.Thr790Met\",\n  \"hgvs_cdna\": \"c.2369C>T\",\n  \"variant_type\": \"SNV\",\n  \"zygosity\": null\n}\n```..."
+    },
+    "Therapy Extractor": {
+      "status": "\u2705 SUCCESS",
+      "output": "```json\n{\n  \"drug_names\": [\"osimertinib\", \"pemetrexed\", \"platinum\"],\n  \"interaction_type\": \"SUBSTITUTES\",\n  \"treatment_line\": \"first-line\",\n  \"drug_classes\": [\"EGFR inhibitor\", \"platinum agent\", \"anti..."
+    },
+    "Evidence Extractor": {
+      "status": "\u2705 SUCCESS",
+      "output": "```json\n{\n  \"evidence_level\": \"A\",\n  \"evidence_type\": \"RESISTANCE\",\n  \"evidence_direction\": \"SUPPORTS\",\n  \"significance\": \"SENSITIVITY\",\n  \"study_type\": \"Phase III clinical trial\",\n  \"patient_count\": ..."
+    }
+  },
+  "tier2_normalization": {
+    "Disease Normalizer": {
+      "status": "\u2705 SUCCESS",
+      "output": "```json\n{\n  \"original_term\": \"Non-small cell lung cancer, adenocarcinoma\",\n  \"doid\": \"DOID:3908\",\n  \"doid_name\": \"lung adenocarcinoma\",\n  \"ncit_code\": \"C3512\",\n  \"ncit_name\": \"Adenocarcinoma of Lung\",..."
+    },
+    "Variant Normalizer": {
+      "status": "\u2705 SUCCESS",
+      "output": "To properly normalize the variant information provided, more specific data about the genomic context and position is typically required (like transcript, DNA reference sequence, or more). Since the pr..."
+    },
+    "Therapy Normalizer": {
+      "status": "\u2705 SUCCESS",
+      "output": "```json\n{\n  \"original_drug\": \"Osimertinib\",\n  \"generic_name\": \"Osimertinib\",\n  \"ncit_code\": \"C80582\",\n  \"rxnorm_code\": \"1806179\",\n  \"drugbank_id\": \"DB09330\",\n  \"atc_code\": \"L01EB04\",\n  \"drug_class\": \"..."
+    }
+  },
+  "tier3_validation": {
+    "Cross-field Validator": {
+      "status": "\u2705 SUCCESS",
+      "output": "```json\n{\n  \"validation_passed\": true,\n  \"consistency_checks\": {\n    \"disease_therapy_compatibility\": true,\n    \"variant_disease_association\": true,\n    \"evidence_significance_alignment\": true,\n    \"h"
+    }
+  },
+  "full_pipeline": {
+    "status": "\u274c FAILED",
+    "error": "Strict JSON schema is enabled, but the output type is not valid. Either make the output type strict, or wrap your type with AgentOutputSchema(YourType, strict_json_schema=False)"
+  }
+}

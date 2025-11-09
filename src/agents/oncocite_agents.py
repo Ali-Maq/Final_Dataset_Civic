@@ -9,7 +9,7 @@ Architecture Overview:
 - Tier 4 (Agent 18): Consolidation - Conflict resolution and reasoning
 """
 
-from agents import Agent, Runner, AgentHooks, RunContextWrapper, Tool, function_tool, ModelSettings
+from agents import Agent, Runner, AgentHooks, RunContextWrapper, Tool, function_tool, ModelSettings, AgentOutputSchema
 from typing import Dict, List, Optional, Any
 from dataclasses import dataclass, field
 from pydantic import BaseModel
@@ -765,7 +765,7 @@ Final output requirements:
 Your output is the authoritative final result that will be used for clinical decision support.
 Apply rigorous quality standards and flag anything that needs human expert review.""",
         model="gpt-4o",  # Use most capable model for final consolidation
-        output_type=CIViCSchema,  # Structured output
+        output_type=AgentOutputSchema(CIViCSchema, strict_json_schema=False),  # Structured output with relaxed schema
         hooks=hooks,
         model_settings=ModelSettings(
             temperature=0.1,  # Very low temperature for consistency

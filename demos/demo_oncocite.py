@@ -5,17 +5,20 @@ Demonstrates how to use the system with actual CIViC data
 
 import asyncio
 import json
+import sys
 import pandas as pd
 from datetime import datetime
 from pathlib import Path
 
-# Import OncoCITE system (make sure oncocite_agents.py is in the same directory)
-from oncocite_agents import (
+# Import OncoCITE system from src/
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from src.agents.oncocite_agents import (
     OncoCITEOrchestrator,
     ExtractionContext,
     CIViCSchema
 )
-from config_oncocite import DEFAULT_CONFIG
+from config.config_oncocite import DEFAULT_CONFIG
 
 
 def load_civic_data(num_samples: int = 5):

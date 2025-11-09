@@ -1,4 +1,7 @@
 """
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent))
 Quick test to verify Tier 4 fix
 """
 
@@ -11,7 +14,7 @@ if not os.getenv('OPENAI_API_KEY'):
     print("Please set your API key: export OPENAI_API_KEY='your-key-here'")
     exit(1)
 
-from oncocite_agents import OncoCITEOrchestrator
+from src.agents.oncocite_agents import OncoCITEOrchestrator
 
 async def test_full_pipeline():
     print("="*80)

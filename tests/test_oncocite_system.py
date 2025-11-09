@@ -5,8 +5,13 @@ Tests all 4 tiers and the complete pipeline
 
 import asyncio
 import os
+import sys
 import json
 from datetime import datetime
+from pathlib import Path
+
+# Add parent directory to path
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 # Check for API key in environment
 if not os.getenv('OPENAI_API_KEY'):
@@ -22,7 +27,7 @@ print("="*80)
 
 # Import system components
 try:
-    from oncocite_agents import (
+    from src.agents.oncocite_agents import (
         OncoCITEOrchestrator,
         create_tier1_extraction_agents,
         create_tier2_normalization_agents,

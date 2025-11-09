@@ -1,0 +1,20 @@
+{
+  "test_date": "2025-11-09 18:17:36",
+  "server_name": "BioContext AI Knowledgebase MCP",
+  "installation_status": "success",
+  "expected_tools": [
+    "antibody_registry",
+    "biorxiv",
+    "ensembl",
+    "europepmc",
+    "interpro",
+    "opentargets",
+    "panglaodb",
+    "pride",
+    "protein_atlas",
+    "reactome",
+    "string",
+    "alphafold"
+  ],
+  "tool_count": 12
+}

@@ -1,25 +1,36 @@
 """
 Configuration file for OncoCITE 18-Agent System
+Supports both OpenAI Agents SDK and Qwen-Agent Framework
 """
 
 import os
 from dataclasses import dataclass
-from typing import Optional
+from typing import Optional, Literal
 
 
 @dataclass
 class OncoCITEConfig:
     """Configuration settings for OncoCITE system"""
 
-    # OpenAI API Configuration
+    # Framework Selection
+    agent_framework: Literal["openai", "qwen"] = "qwen"  # Choose: "openai" or "qwen"
+
+    # OpenAI API Configuration (for OpenAI framework)
     openai_api_key: Optional[str] = None
     default_model: str = "gpt-4o"
     reasoning_model: str = "o1"  # For complex reasoning tasks
     fast_model: str = "gpt-4o-mini"  # For simple extractions
 
+    # Qwen API Configuration (for Qwen-Agent framework)
+    dashscope_api_key: Optional[str] = None
+    qwen_model: str = "qwen-max-latest"  # DashScope model name
+    qwen_model_server: Optional[str] = None  # For local deployment: e.g., "http://localhost:8000/v1"
+    qwen_model_local: str = "Qwen2.5-7B-Instruct"  # Local model name if using vLLM/Ollama
+
     # Agent Configuration
     use_parallel_tools: bool = True
     max_tokens: int = 4000
+    max_input_tokens: int = 58000  # For Qwen models
     temperature_extraction: float = 0.7  # Tier 1
     temperature_normalization: float = 0.5  # Tier 2
     temperature_validation: float = 0.3  # Tier 3
@@ -49,20 +60,64 @@ class OncoCITEConfig:
     require_human_review_below: float = 0.5
 
     def __post_init__(self):
-        """Load API key from environment if not provided"""
+        """Load API keys from environment if not provided"""
         if self.openai_api_key is None:
             self.openai_api_key = os.getenv("OPENAI_API_KEY")
-            if not self.openai_api_key:
-                print("⚠️  WARNING: OPENAI_API_KEY not found in environment")
+
+        if self.dashscope_api_key is None:
+            self.dashscope_api_key = os.getenv("DASHSCOPE_API_KEY")
+
+        # Warn based on selected framework
+        if self.agent_framework == "openai" and not self.openai_api_key:
+            print("⚠️  WARNING: OPENAI_API_KEY not found in environment (required for OpenAI framework)")
+        elif self.agent_framework == "qwen" and not self.dashscope_api_key and not self.qwen_model_server:
+            print("⚠️  WARNING: DASHSCOPE_API_KEY not found and no local model server configured (required for Qwen framework)")
+
+    def get_qwen_llm_config(self) -> dict:
+        """
+        Get LLM configuration for Qwen-Agent framework
+
+        Returns:
+            dict: LLM configuration for Qwen-Agent
+        """
+        if self.qwen_model_server:
+            # Use local deployment (vLLM, Ollama, etc.)
+            return {
+                'model': self.qwen_model_local,
+                'model_server': self.qwen_model_server,
+                'api_key': 'EMPTY',
+                'generate_cfg': {
+                    'max_input_tokens': self.max_input_tokens,
+                }
+            }
+        else:
+            # Use DashScope
+            return {
+                'model': self.qwen_model,
+                'model_type': 'qwen_dashscope',
+                'api_key': self.dashscope_api_key,
+                'generate_cfg': {
+                    'max_input_tokens': self.max_input_tokens,
+                }
+            }
 
     @classmethod
     def from_env(cls):
         """Create configuration from environment variables"""
-        return cls(
+        agent_framework = os.getenv("ONCOCITE_AGENT_FRAMEWORK", "qwen")
+
+        config = cls(
+            agent_framework=agent_framework,
             openai_api_key=os.getenv("OPENAI_API_KEY"),
+            dashscope_api_key=os.getenv("DASHSCOPE_API_KEY"),
             default_model=os.getenv("ONCOCITE_DEFAULT_MODEL", "gpt-4o"),
+            qwen_model=os.getenv("ONCOCITE_QWEN_MODEL", "qwen-max-latest"),
+            qwen_model_server=os.getenv("ONCOCITE_QWEN_MODEL_SERVER"),
+            qwen_model_local=os.getenv("ONCOCITE_QWEN_MODEL_LOCAL", "Qwen2.5-7B-Instruct"),
             verbose=os.getenv("ONCOCITE_VERBOSE", "true").lower() == "true"
         )
+
+        return config
 
 
 # Default configuration instance

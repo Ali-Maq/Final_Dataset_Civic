@@ -4,7 +4,7 @@ A comprehensive AI-powered system for extracting, normalizing, validating, and c
 
 ## 🎯 Overview
 
-**OncoCITE** (Oncology Clinical Intelligence & Text Extraction) is a production-ready, multi-agent system built with OpenAI Agents SDK that processes cancer genomics literature into structured CIViC (Clinical Interpretations of Variants in Cancer) schema format.
+**OncoCITE** (Oncology Clinical Intelligence & Text Extraction) is a production-ready, multi-agent system that processes cancer genomics literature into structured CIViC (Clinical Interpretations of Variants in Cancer) schema format.
 
 ### Key Features
 
@@ -13,6 +13,24 @@ A comprehensive AI-powered system for extracting, normalizing, validating, and c
 ✅ **124-Field CIViC Schema** with complete validation
 ✅ **Tested & Validated** - All agents operational with comprehensive test suite
 ✅ **Production Ready** - Deployed and documented with 40+ pages of docs
+
+### 🆕 NEW: Qwen-Agent Framework Support
+
+OncoCITE now supports **two agent frameworks**:
+
+1. **OpenAI Agents SDK** (Original) - `src/agents/oncocite_agents.py`
+   - Uses GPT-4o/GPT-4 models
+   - Cloud-based via OpenAI API
+   - Proven performance
+
+2. **Qwen-Agent Framework** (New) - `src/agents/oncocite_agents_qwen.py` ⭐
+   - Uses open-source Qwen models (Qwen2.5, Qwen-Max, etc.)
+   - Deploy locally (vLLM, Ollama) or cloud (DashScope)
+   - **10x cost savings** compared to OpenAI
+   - **Data privacy** with on-premise deployment
+   - **Same quality** as GPT-4 level models
+
+📖 **[Read the Qwen-Agent Migration Guide →](README_QWEN_AGENT.md)**
 
 ---
 

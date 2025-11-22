@@ -6,3 +6,9 @@ data/ontologies/*.obo
 data/ontologies/*.txt
 data/databases/*.db
 data/databases/*.db-journal
+
+# Test results (generated output)
+tests/*_test_results.json
+tests/s3_test_results.json
+tests/metadata_test_results.json
+tests/end_to_end_test_results.json
